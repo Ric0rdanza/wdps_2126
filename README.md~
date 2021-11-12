@@ -1,0 +1,4 @@
+
+
+##########代码
+read2text.py是代码，test.sh是运行脚本，把这两个文件放到assignment里面，然后sh test.sh就可以了
